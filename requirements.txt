@@ -1,0 +1,13 @@
+flask
+requests
+pandas
+matplotlib
+nltk
+regex
+bs4
+plotly
+gunicorn
+numpy
+python-dotenv
+torch
+transformers
